@@ -1,4 +1,4 @@
-FROM approachingai/ktransformers:0.2.1
+FROM approachingai/ktransformers:v0.2.4-AVX512
 # FROM node:20.16.0 as web_compile
 # WORKDIR /home
 # RUN <<EOF
